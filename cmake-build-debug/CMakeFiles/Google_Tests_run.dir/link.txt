@@ -1,1 +1,1 @@
-/usr/bin/g++  -g  -rdynamic CMakeFiles/Google_Tests_run.dir/tests.o  -o Google_Tests_run  -L/home/bnaich/CLionProjects/gtest/cmake-build-debug/lib lib/libgtestd.a lib/libgtest_maind.a lib/libgtestd.a -lpthread 
+/usr/bin/c++  -g  -rdynamic CMakeFiles/Google_Tests_run.dir/tests.o  -o Google_Tests_run  -L/home/maksch/CLionProjects/pracmin_task_9.1/cmake-build-debug/lib lib/libgtestd.a lib/libgtest_maind.a lib/libgtestd.a -lpthread 

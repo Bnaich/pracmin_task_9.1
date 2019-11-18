@@ -1,4 +1,4 @@
-# Install script for directory: /home/bnaich/CLionProjects/gtest/googletest
+# Install script for directory: /home/maksch/CLionProjects/pracmin_task_9.1/googletest
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/bnaich/CLionProjects/gtest/cmake-build-debug/googletest/googlemock/cmake_install.cmake")
+  include("/home/maksch/CLionProjects/pracmin_task_9.1/cmake-build-debug/googletest/googlemock/cmake_install.cmake")
 
 endif()
 
